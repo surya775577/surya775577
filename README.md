@@ -51,8 +51,16 @@ I am a motivated Data Specialist Trainee with a deep interest in data analytics,
 
 ---
 
-## 🌐 Connect With Me  
+### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/surya775577)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:krishnatuttagunta7@gmail.com)  
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+</a>
+<a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+</a>
+<a href="mailto:iamshyam1911@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" />
+</a>
+</p>
