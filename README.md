@@ -54,10 +54,10 @@ I am a motivated Data Specialist Trainee with a deep interest in data analytics,
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/surya-tuttagunta/" target="_blank">
+<a href="https://www.linkedin.com/in/surya-tuttagunta/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
 </a>
-<a href="https://github.com/YOUR-USERNAME](https://github.com/surya775577" target="_blank">
+<a href="https://github.com/surya775577" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
 </a>
 <a href="mailto:krishnatuttagunta7@gmail.com">
