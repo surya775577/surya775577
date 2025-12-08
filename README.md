@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Surya Venkata Subrahmanyam  
 
-<!--
-**surya775577/surya775577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Data Scientist & AI Enthusiast from India 🇮🇳  
 
-Here are some ideas to get you started:
+I am a motivated Data Specialist Trainee with a deep interest in data analytics, business intelligence, and artificial intelligence. I focus on transforming raw data into meaningful insights through dashboards, automation, and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Status  
+- 🎓 Data Specialist Trainee at **Technical Hub**  
+- 🌱 Currently learning **Microsoft Excel, SharePoint, Power Automate, Power BI, Snowflake & AI-based technologies**  
+- 🤝 Open to collaborating on **Dashboards, Reports, Data Analytics & AI-based Projects**  
+- ✍️ I write about **Dashboards, Reports & AI Tools** on my blog  
+- 📩 How to reach me: **krishnatuttagunta7@gmail.com**  
+- ⚡ Interests: **Dashboard Development, Data Visualization, Learning AI, Networking & Blogging**
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+**Data & BI Tools:**  
+- Microsoft Excel  
+- Power BI  
+- Snowflake  
+
+**Automation & Collaboration:**  
+- Power Automate  
+- SharePoint  
+
+**AI & Analytics:**  
+- Python (Basics for Data Science)  
+- AI Tools for Automation & Analysis  
+
+---
+
+## 📂 Projects (Add as you build)  
+- ✅ Interactive Sales Dashboard (Power BI)  
+- ✅ Automated Report Generation using Excel & Power Automate  
+- ✅ Data Cleaning & Analysis Project (Snowflake + Excel)  
+
+> *More projects coming soon as I continue learning and building.*
+
+---
+
+## 🎯 2025 Learning Roadmap  
+- Advanced Power BI (DAX & Performance Tuning)  
+- SQL for Data Analytics  
+- Python for Data Science  
+- Machine Learning Fundamentals  
+- Deployment of Dashboards & AI Models  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/surya775577)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:krishnatuttagunta7@gmail.com)  
