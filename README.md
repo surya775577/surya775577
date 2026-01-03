@@ -1,4 +1,4 @@
-# Hi 👋, I'm Surya Venkata Subrahmanyam  
+# Hi 👋, I'm Surya 
 
 ### A Passionate Data Scientist & AI Enthusiast from India 🇮🇳  
 
